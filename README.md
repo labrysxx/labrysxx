@@ -1,7 +1,7 @@
 Hi 👋 My name is Caroline Faria
 ===============================
 
-Web developer junior(sandy)
+Web Developer Junior(Sandy)
 ---------------------------
 
 I've been learning to code for 4 months. I've started with HTML and CSS and now I'm founding a passion for linking front-end with backend.
