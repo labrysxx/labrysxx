@@ -4,7 +4,7 @@ Hi 👋 My name is Caroline Faria
 Web developer junior(sandy)
 ---------------------------
 
-i've been learning to code for 4 months. I've started with HTML and CSS and now I'm founding a passion for linking front-end with backend.
+I've been learning to code for 4 months. I've started with HTML and CSS and now I'm founding a passion for linking front-end with backend.
 
 * 🌍  I'm based in São José do Rio Preto - SP
 * ✉️  You can contact me at [caroline.gdfaria@gmail.com](mailto:caroline.gdfaria@gmail.com)
