@@ -1,14 +1,30 @@
 Hi 👋 My name is Caroline Faria
 ===============================
 
-Web Developer Júnior
----------------------------
-
-I've been learning to code for 4 months. I've started with HTML and CSS and now I'm founding a passion for linking front-end with backend.
-
-* 🌍  I'm based in São José do Rio Preto - SP
-* ✉️  You can contact me at [caroline.gdfaria@gmail.com](mailto:caroline.gdfaria@gmail.com)
-* 🧠  I'm learning JavaScript and React
+```JavaScript
+const aboutMe = {
+  name: 'Caroline Gonçalves de Faria',
+  age: '22',
+  rank: 'Web Developer Junior',
+  country: 'Brazil',
+  hobbies: [
+    'read',
+    'watch movies',
+    'listen to music',
+  ],
+  softSkills: [
+    'communication',
+    'teamwork',
+    'organization'
+  ]
+};
+function contactMe() {
+  return {
+    email: 'caroline.gdfaria@gmail.com',
+    linkedin: 'linkedin.com/in/caroline-faria-dev-front-end/',
+  }
+}
+```
 
 ### Skills
 
@@ -19,7 +35,6 @@ I've been learning to code for 4 months. I've started with HTML and CSS and now 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
 
 ### Socials
 
