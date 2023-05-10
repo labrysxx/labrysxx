@@ -4,7 +4,7 @@ Hi 👋
 ```JavaScript
 const aboutMe = {
   name: 'Caroline Gonçalves de Faria',
-  age: '22',
+  age: '23',
   rank: 'Web Developer Junior',
   country: 'Brazil',
   hobbies: [
