@@ -5,7 +5,7 @@ Hi 👋
 const aboutMe = {
   name: 'Caroline Gonçalves de Faria',
   age: '23',
-  rank: 'Web Developer Junior',
+  rank: 'Web Developer',
   country: 'Brazil',
   hobbies: [
     'read',
@@ -21,7 +21,7 @@ const aboutMe = {
 function contactMe() {
   return {
     email: 'caroline.gdfaria@gmail.com',
-    linkedin: 'linkedin.com/in/caroline-faria-dev-front-end/',
+    linkedin: 'https://www.linkedin.com/in/carolinegfaria/'
   }
 }
 ```
