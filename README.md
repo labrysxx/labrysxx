@@ -26,6 +26,8 @@ function contactMe() {
 }
 ```
 
+[![card](https://github-readme-stats.vercel.app/api?username=labrysxx&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Skills
 
 <p align="left">
